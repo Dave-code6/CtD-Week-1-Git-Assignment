@@ -3,7 +3,7 @@ margin: 0;
 padding: 0;
 }
 
-#target-div {
+body {
   min-height: 100vh;
   width: 100%;
   background: #ddd;
